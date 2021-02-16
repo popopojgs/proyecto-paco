@@ -9,7 +9,7 @@ sections:
   label: Products
   create: all
   match: "**/*"
-upload_dir: medios
+upload_dir: media
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
