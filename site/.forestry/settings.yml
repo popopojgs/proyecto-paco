@@ -9,7 +9,7 @@ sections:
   label: Products
   create: all
   match: "**/*"
-upload_dir: snipcart-hugo-demo
+upload_dir: medios
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
